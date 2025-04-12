@@ -3,7 +3,7 @@
 # 🌌 About Me:
 A web-wrangling, data-slaying wizard currently leveling up with a Master’s in Business Analytics.
 By day, I craft sleek websites and dissect datasets like a digital Sherlock; by night, I’m probably geeking out over the perfect Python script or a killer dashboard. 
-I live where code meets analytics—turning raw numbers into stories and bugs into features. Why? Because to me, data isn’t just spreadsheets—it’s a puzzle waiting to be hacked (ethically, of course).
+I live where code meets analytics turning raw numbers into stories and bugs into features. Why? Because to me, data isn’t just spreadsheets it’s a puzzle waiting to be hacked (ethically, of course).
 And hey, if I can make Excel almost as fun as front-end magic? Mission accomplished.
 
 # 👾 Tech Stack:
